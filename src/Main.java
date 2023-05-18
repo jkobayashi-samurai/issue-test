@@ -6,6 +6,10 @@ public class Main {
 
 		// ブランチでコミット
 
+
+		// branch2でコミット
+
 		// masterでコミット
+
 	}
 }

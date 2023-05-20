@@ -12,5 +12,6 @@ public class Main {
 
 		// feature/#4 でコミット　※追加　プルリクエストの指摘修正
 
+		// feature/#6 でコミット 
 	}
 }

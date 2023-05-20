@@ -6,10 +6,11 @@ public class Main {
 
 		// ブランチでコミット
 
-
 		// branch2でコミット
 
 		// masterでコミット
+
+		// feature/#4 でコミット　※追加　プルリクエストの指摘修正
 
 	}
 }

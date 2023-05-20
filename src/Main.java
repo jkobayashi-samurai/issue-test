@@ -10,7 +10,7 @@ public class Main {
 
 		// masterでコミット
 
-		// feature/#4 でコミット
+		// feature/#4 でコミット　※追加　プルリクエストの指摘修正
 
 	}
 }

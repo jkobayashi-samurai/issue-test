@@ -12,5 +12,6 @@ public class Main {
 
 		// feature/#4 でコミット　※追加　プルリクエストの指摘修正
 
+		// 研修PCで修正（feature/#6作成後に、Main修正）
 	}
 }

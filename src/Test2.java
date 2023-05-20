@@ -8,4 +8,6 @@ public class Test2 {
 	// ブランチDでコミット2回目
 
 	// ブランチeでコミット
+
+	// Masterでコミット
 }

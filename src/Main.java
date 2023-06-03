@@ -25,5 +25,6 @@ public class Main {
 		// 0604 desk コンフリクト２
 		// 0604 desk コンフリクト2.5
 
+		// developでコミット
 	}
 }

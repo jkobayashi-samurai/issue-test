@@ -16,5 +16,6 @@ public class Main {
 
 		// 研修PCで修正（feature/#6作成後に、Main修正）
 
+		// 0604 a
 	}
 }

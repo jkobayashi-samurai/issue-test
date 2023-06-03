@@ -19,5 +19,7 @@ public class Main {
 		// 0604 a
 
 		// 研修PC　0604　1
+
+		// developでコミット
 	}
 }

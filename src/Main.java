@@ -6,10 +6,11 @@ public class Main {
 
 		// ブランチでコミット
 
-
 		// branch2でコミット
 
 		// masterでコミット
+
+		// 研修PC　0604　1
 
 	}
 }
